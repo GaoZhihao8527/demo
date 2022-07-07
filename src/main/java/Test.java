@@ -6,5 +6,6 @@ public class Test {
         System.out.println("444");
         System.out.println("555");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
